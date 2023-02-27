@@ -1,0 +1,8 @@
+2023-02-25 17:50:36.228 [info] Started initializing default profile extensions in extensions installation folder. file:///root/.vscode/extensions
+2023-02-25 17:50:36.567 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///root/.vscode/extensions Unable to create file 'vscode-userdata:/root/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2023-02-25 17:50:36.568 [info] Completed initializing default profile extensions in extensions installation folder. file:///root/.vscode/extensions
+2023-02-25 17:50:37.137 [info] Starting worker process with pid 3882 (type: fileWatcher, window: 1).
+2023-02-25 18:00:02.229 [info] Starting worker process with pid 4702 (type: fileWatcher, window: 3).
+2023-02-25 18:01:15.721 [info] Starting worker process with pid 5111 (type: fileWatcher, window: 4).
+2023-02-25 18:01:23.419 [info] Worker process with pid 5111 terminated normally (type: fileWatcher, window: 4).
+2023-02-25 18:01:25.157 [info] Worker process with pid 4702 terminated normally (type: fileWatcher, window: 3).
