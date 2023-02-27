@@ -1,0 +1,1 @@
+# alph_blog_rails6
