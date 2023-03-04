@@ -56,6 +56,7 @@ class ArticlesController < ApplicationController
 
   
 =begin  
+after edit
     # @article = Article.new(params.require(:article).permit(:title, :description))  
     # if  @article.save
     # flash[:notice] = "Article was created successfully. "
